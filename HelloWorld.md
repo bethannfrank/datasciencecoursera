@@ -1,1 +1,1 @@
-* Sample text
+## This is a markdown file
